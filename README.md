@@ -1,2 +1,2 @@
 # Prosthetic-Foot-Test-Rig
-Vivian, Nezy, Jack Seniro Design Project Code
+Vivian, Nezy, Jack Senior Design Project Code
